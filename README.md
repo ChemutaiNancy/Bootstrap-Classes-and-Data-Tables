@@ -1,4 +1,4 @@
-<h2>Bootstrap 4 Basics</h2>
+<h2>Bootstrap Structures, List Groups, Form and Cards</h2>
 <p>Structures, List Groups, Form and Cards</p>
 <img src="img/cards.PNG" alt="Cards">
 <img src="img/form.PNG" alt="Form">
